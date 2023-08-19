@@ -1,0 +1,3 @@
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\2 ciclo\Progra avanzada\c ++\Lab1_Jose_Garcia_1106423\Lab1_Jose_Garcia_1106423\x64\Debug\Lab1_Jose_Garcia_1106423.vcxproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\2 ciclo\Progra avanzada\c ++\Lab1_Jose_Garcia_1106423\Lab1_Jose_Garcia_1106423\x64\Debug\Lab1JoseGarcia1106423.MyForm.resources
+C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\2 ciclo\Progra avanzada\c ++\Lab1_Jose_Garcia_1106423\Lab1_Jose_Garcia_1106423\x64\Debug\Lab1_Jose_Garcia_1106423.vcxproj.GenerateResource.cache
