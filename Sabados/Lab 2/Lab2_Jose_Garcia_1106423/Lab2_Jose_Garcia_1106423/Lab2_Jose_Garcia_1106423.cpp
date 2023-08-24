@@ -4,12 +4,12 @@
 
 struct poligonos
 {
-	int largo;
+	double largo;
 
-	double Area(int largo, int lados)
+	double Area(double largo, int lados)
 	{
 		double area;
-		double apotema = largo / (2 * tan(3.14 / lados));
+		double apotema = largo / (2 * tan(3.1416 / lados));
 		area = 0.5 * lados * largo * apotema;
 		return area;
 	}
@@ -38,13 +38,13 @@ int main()
 	cout << "8. Decagono (10 lados)" << endl;
 
 	cin >> numero;
-	if (numero >= 10 || numero <= 1)
+	if (numero <= 8 || numero >= 1)
 	{
 		int lado = numero + 2;
-		cout << "¿Cuando medira el lado?" << endl;
+		cout << "¿Cuando medira el lado en cm?" << endl;
 		cin >> figura.largo;
-		cout << "El área es: " << figura.Area(figura.largo, lado) << "\n";
-		cout << "El perimetro es: " << figura.perimetro(figura.largo, lado);
+		cout << "El área es: " << figura.Area(figura.largo, lado) << " cm \n";
+		cout << "El perimetro es: " << figura.perimetro(figura.largo, lado) << " cm";
 	}
 	else
 	{

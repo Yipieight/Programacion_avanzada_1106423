@@ -1,2 +1,3 @@
 ﻿  Lab2_Jose_Garcia_1106423.cpp
-  Lab2_Jose_Garcia_1106423.vcxproj -> C:\Users\ASUS\Documents\GitHub\Landivar\Landivar\2 ciclo\Progra avanzada\c ++\Lab2_Jose_Garcia_1106423\x64\Debug\Lab2_Jose_Garcia_1106423.exe
+C:\Users\G3\Documents\GitHub\Programacion_avanzada_1106423\Sabados\Lab 2\Lab2_Jose_Garcia_1106423\Lab2_Jose_Garcia_1106423\Lab2_Jose_Garcia_1106423.cpp(47,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Lab2_Jose_Garcia_1106423.vcxproj -> C:\Users\G3\Documents\GitHub\Programacion_avanzada_1106423\Sabados\Lab 2\Lab2_Jose_Garcia_1106423\x64\Debug\Lab2_Jose_Garcia_1106423.exe
