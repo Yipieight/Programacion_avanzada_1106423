@@ -2,6 +2,8 @@
 #include <string>
 #include <cmath>
 
+using namespace::std;
+
 struct poligonos
 {
 	double largo;
@@ -20,7 +22,6 @@ struct poligonos
 	}
 };
 
-using namespace::std;
 
 int main()
 {
