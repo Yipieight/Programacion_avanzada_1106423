@@ -1,0 +1,10 @@
+4,Charmeleon,1
+37,Vulpix,1
+152,Chikorita,2
+253,Glovyle,3
+312,Minun,3
+452,Drapion,4
+526,Gitalith,5
+650,Chespin,6
+742,Cutiefly,7
+835,Yamper,8

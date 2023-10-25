@@ -12,11 +12,7 @@ private:
         Node(int val) : data(val), next(nullptr) {}
     };
 
-
-
     Node* header = nullptr;
-
-
 
 public:
     void Add(int item)
