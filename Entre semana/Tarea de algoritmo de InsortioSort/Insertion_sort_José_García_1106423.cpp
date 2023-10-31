@@ -22,6 +22,7 @@ string insertionSort( string letras, int n) {
 int main()
 {
 	//José Andrés García Elías 1106423
+	//Algoritmo para ordenamiento de letras conforme al abecedario de la "a" a la "z".
 	string letras = "anbgbajs";
 
 	cout << insertionSort(letras, letras.length());
